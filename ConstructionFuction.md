@@ -42,6 +42,7 @@ function person(name, age, sex) {
 <pre><code>
 rand = new person("Rand McKinnon", 33, "M");
 ken = new person("Ken Jones", 39, "M");
+</pre></code>
 이제 우리는 car가 owner라는 속성으로 person 개체를 가지도록 car의 정의를 바꿀 수 있습니다.
 
 <pre><code>
